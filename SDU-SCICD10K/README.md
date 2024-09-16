@@ -8,3 +8,4 @@ The dataset can be downloaded here.
 https://mega.nz/file/G6xDwYiZ#l9XW-1AvyXi9ZSEWyNnrRh9cz6fPaEXJDL0nJdqUW4M
 
 
+![SCICD10k](https://github.com/user-attachments/assets/1f6c6b7e-a6d7-4741-b29c-2a6dab10de27)
