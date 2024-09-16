@@ -4,7 +4,6 @@ We constructed an Screen Content Image Compression Dataset (SDU_SCICD10K), encom
 
 The dataset can be downloaded here.
 
-- Baidu Disk
-
-
 - MPGA
+https://mega.nz/file/G6xDwYiZ#l9XW-1AvyXi9ZSEWyNnrRh9cz6fPaEXJDL0nJdqUW4M
+
